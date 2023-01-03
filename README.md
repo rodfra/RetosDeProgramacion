@@ -1,2 +1,2 @@
-# Retos-de-programaci-n
+# RetosDeProgramación
 Retos de la programación competitiva usando lenguaje C#
