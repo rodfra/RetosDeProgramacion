@@ -45,7 +45,6 @@
  * l10n
  * i18n
  * p43s
- * 
  */
 
 using System;
